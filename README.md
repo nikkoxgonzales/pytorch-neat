@@ -1,3 +1,7 @@
+# NIKKO's Notes 
+This is a fork of the NEAT wrapper PyTorch-NEAT. This is a test using cartpoles and OpenAI gym to integrate the wrapper.
+I did this to see if the GPU acceleration can increase NEAT's learning rate.
+
 # PyTorch-NEAT
 A PyTorch implementation of the NEAT (NeuroEvolution of Augmenting Topologies) method which was originally created by Kenneth O. Stanley as a principled approach to evolving neural networks. [Read the paper here](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf).
 
