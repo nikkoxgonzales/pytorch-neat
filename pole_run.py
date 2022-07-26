@@ -28,6 +28,7 @@ if solution is not None:
     phenotype = FeedForwardNet(solution, c.PoleBalanceConfig)
 
     while not done:
+        print(1)
         env.render()
         input = torch.Tensor([observation]).to(c.PoleBalanceConfig.DEVICE)
 
